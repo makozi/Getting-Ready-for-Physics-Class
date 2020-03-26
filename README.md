@@ -1,2 +1,4 @@
-# Getting-Ready-for-Physics-Class
+# Getting Ready for Physics Class
+
+
 Physics Formula using Python 
